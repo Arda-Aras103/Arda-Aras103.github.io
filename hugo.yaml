@@ -1,0 +1,45 @@
+baseURL: 'https://Arda-Aras103.github.io/'
+languageCode: 'en-us'
+title: 'Arda Aras'
+theme: 'PaperMod'
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+
+params:
+  defaultTheme: 'dark'
+  description: 'DevOps Engineer | Cloud Native Enthusiast'
+  author: 'Arda Aras'
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
+  # YENİ EKLENEN FAVICON AYARI BURADA
+  assets:
+    disableHLJS: false
+    favicon: '/favicon.png' 
+    favicon16x16: '/favicon.png'
+    favicon32x32: '/favicon.png'
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/Arda-Aras103'
+    - name: linkedin
+      url: 'https://linkedin.com' # Burayı sonra düzenlersin
+    - name: email
+      url: 'mailto:iletisim@ardaaras.com'
+
+menu:
+  main:
+    - identifier: 'about'
+      name: 'About'
+      url: '/about/'
+      weight: 10
+    - identifier: 'archives'
+      name: 'Archive'
+      url: '/archives/'
+      weight: 20
+
