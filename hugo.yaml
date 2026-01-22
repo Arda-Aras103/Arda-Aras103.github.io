@@ -13,33 +13,42 @@ params:
   author: 'Arda Aras'
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
   
-  # YENİ EKLENEN FAVICON AYARI BURADA
   assets:
     disableHLJS: false
-    favicon: '/favicon.png' 
-    favicon16x16: '/favicon.png'
-    favicon32x32: '/favicon.png'
+    favicon: '/favicon.png'
+
+  profileMode:
+    enabled: true
+    title: "Arda Aras"
+    subtitle: "Computer Engineering Student 🚀 | DevOps Aspirant"
+    imageUrl: "https://github.com/Arda-Aras103.png"
+    imageTitle: "Arda Aras"
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: "My Posts"
+        url: "/posts"
+      - name: "Resume"
+        url: "/resume"
+      - name: "Contact"
+        url: "mailto:cavduraras103@gmail.com"
 
   socialIcons:
     - name: github
       url: 'https://github.com/Arda-Aras103'
     - name: linkedin
-      url: 'https://linkedin.com' # Burayı sonra düzenlersin
-    - name: email
-      url: 'mailto:iletisim@ardaaras.com'
+      url: 'https://www.linkedin.com/in/arda-aras-%C3%A7avdur/'
+    - name: Instagram
+      url: 'https://www.instagram.com/ard_aars/'
 
 menu:
   main:
-    - identifier: 'about'
-      name: 'About'
-      url: '/about/'
+    - identifier: 'posts'
+      name: 'Blog'
+      url: '/posts/'
       weight: 10
-    - identifier: 'archives'
-      name: 'Archive'
-      url: '/archives/'
+    - identifier: 'resume'
+      name: 'Resume'
+      url: '/resume/'
       weight: 20
-

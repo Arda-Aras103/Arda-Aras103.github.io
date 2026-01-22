@@ -1,7 +1,13 @@
 ---
-date: '2026-01-23T00:29:08+03:00'
-draft: false
 title: 'Being a Computer Engineering Student in AI Era'
+date: '2026-01-23'
+draft: false
+tags: ['AI', 'Engineering', 'Future', 'Detroit Become Human']
+categories: ['Personal View']
+cover:
+    image: '/images/ai-cover.jpg'
+    alt: 'Artificial Intelligence and Human Mind'
+    caption: 'Man vs Machine or Man with Machine?'
 ---
 
 # Introduction 
@@ -12,6 +18,8 @@ Science is over" and a fake conversation about it.
 
 I've been thinking about it for a while, and maybe I found an option for us: a life-partner (Please don't think of marrying an AI, that time hasn't come yet!). Anyway, if we incorporate the memory of AI with human thinking, then I suppose we will not cease. Maybe, you will ask me: "If
 that happens, will Earth become like in Detroit:Become Human?" 
+{{< figure src="/images/detroit.jpg" title="Detroit: Become Human" width="75%" align="center" caption="Are we building tools or new lifeforms?" >}}
+
 I understand you but I don't think so. Humanity is unpredictable;
 Of course it might come true before we know it, but the probability is very low.
 
