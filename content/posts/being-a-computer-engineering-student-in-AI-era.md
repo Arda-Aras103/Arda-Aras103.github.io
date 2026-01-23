@@ -17,7 +17,7 @@ Engineering or Computer Science students like me, are bored of this topic. Every
 Science is over" and a fake conversation about it.  
 
 ### The Era of Integration
-You must have noticed that the big players in the AI race like Google, Claude, OpenAI; are integrating the AI directly into our lives. This show
+You must have noticed that the big players in the AI race like Google, Claude, OpenAI; are integrating the AI directly into our lives. This shows
 us that AI considered for this role right from the start. This is not the cause, but the result of world's evolution. Humanity naturally
 struggles to accept new occurences in its own life. That is understandable but the new era does not want resistance from us, it demands
 adaptation.  
@@ -34,7 +34,7 @@ I understand you but I don't think so. Humanity is unpredictable;
 Of course it might come true before we know it, but the probability is very low.
 
 ### Examples for My Own Life
-I usually use the Gemini in daily life. And these conversations are about coding or seeking an alternative opinion to my own. The two use cases are roughly equal in my chats. But as I mentioned, I have alsı started using Gemini to organize my calendar and manage my emails in Gmail. This integration is inevitable, so I decided to start right now. 
+I usually use the Gemini in daily life. And these conversations are about coding or seeking an alternative opinion to my own. The two use cases are roughly equal in my chats. But as I mentioned, I have also started using Gemini to organize my calendar and manage my emails in Gmail. This integration is inevitable, so I decided to start right now. 
 
 <div style="text-align: center;">
     <img src="/images/chats.jpg" alt="Chats in my Gemini App" style="width: 50%; border-radius: 8px;">
