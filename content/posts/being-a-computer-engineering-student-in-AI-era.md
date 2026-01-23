@@ -25,20 +25,23 @@ adaptation.
 ### The New Option for Us
 I've been thinking about it for a while, and maybe I found an option for us: a life-partner (Please don't think of marrying an AI, that time hasn't come yet!). Anyway, if we incorporate the memory of AI with human thinking, then I suppose we will not cease. Maybe, you will ask me: "If
 that happens, will Earth become like in Detroit:Become Human?" 
-<div style="text-align: center;">
-    <img src="/images/detroit.jpg" alt="Detroit: Become Human" style="width: 50%; border-radius: 8px;">
-    <p><em>Are we building tools or new lifeforms?</em></p>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="/images/detroit.jpg" alt="Detroit Become Human" style="width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <p style="opacity: 0.8; font-style: italic; margin-top: 10px;">Are we building tools or new lifeforms?</p>
 </div>
+
 
 I understand you but I don't think so. Humanity is unpredictable;
 Of course it might come true before we know it, but the probability is very low.
 
+
 ### Examples for My Own Life
 I usually use the Gemini in daily life. And these conversations are about coding or seeking an alternative opinion to my own. The two use cases are roughly equal in my chats. But as I mentioned, I have also started using Gemini to organize my calendar and manage my emails in Gmail. This integration is inevitable, so I decided to start right now. 
 
-<div style="text-align: center;">
-    <img src="/images/chats.jpg" alt="Chats in my Gemini App" style="width: 50%; border-radius: 8px;">
-    <p><em>Please don't judge me for chats!</em></p>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="/images/chats.jpg" alt="My Gemini Chats" style="width: 60%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <p style="opacity: 0.8; font-style: italic; margin-top: 10px;">Please don't judge me for my chats!</p>
 </div>
+
 
 Succinctly, this is not a competition between AI and Humanity; it is a new lifeform in a new world. And herald of the new world.

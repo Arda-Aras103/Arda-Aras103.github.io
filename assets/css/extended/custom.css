@@ -1,0 +1,22 @@
+/* --- KAPAK RESMİ AYARLARI --- */
+
+/* .post-cover img, PaperMod temasında kapak resmini tutan etikettir */
+.post-cover img {
+    /* 1. Genişliği sınırla */
+    max-width: 75%;  /* Ekranın sadece %75'ini kaplasın. İstersen %60 veya 800px yapabilirsin. */
+    
+    /* 2. Ortala */
+    display: block;  /* Ortalamanın çalışması için gerekli */
+    margin: 30px auto; /* Üstten/alttan 30px boşluk bırak, sağdan/soldan otomatik (auto) ortala */
+    
+    /* 3. Biraz makyaj yapalım (Opsiyonel ama şık durur) */
+    border-radius: 12px; /* Köşeleri yumuşat */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3); /* Altına havalı bir gölge at */
+}
+
+/* Mobil cihazlarda çok küçülmesin diye bir güvenlik önlemi */
+@media (max-width: 768px) {
+    .post-cover img {
+        max-width: 95%; /* Telefondan girince ekranı daha çok doldursun */
+    }
+}
