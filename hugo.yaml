@@ -53,6 +53,10 @@ menu:
       name: 'Resume'
       url: '/resume/'
       weight: 20
+    - identifier: 'templates'
+      name: 'Notion Templates'
+      url: '/templates/''
+      weight: 20
 
 markup:
   goldmark:
