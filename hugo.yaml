@@ -55,7 +55,7 @@ menu:
       weight: 20
     - identifier: 'templates'
       name: 'Notion Templates'
-      url: '/templates/''
+      url: '/templates/'
       weight: 20
 
 markup:

@@ -9,7 +9,8 @@ disableShare: true
 # Arda Aras Çavdur
 
 **Computer Engineering Student | DevOps Enthusiast**
-📍 İzmir, Turkey | 📧 cavduraras103@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/arda-aras-%C3%A7avdur/) | 🐙 [GitHub](https://github.com/Arda-Aras103)
+* 📍 İzmir, Turkey | 📧 cavduraras103@gmail.com
+* 🔗 [LinkedIn](https://www.linkedin.com/in/arda-aras-%C3%A7avdur/) | 🐙 [GitHub](https://github.com/Arda-Aras103)
 
 ---
 
@@ -22,7 +23,7 @@ Passionate Computer Engineering student with a strong focus on **DevOps, Cloud N
 
 * **Languages:** Go (Golang), C#, Python, Bash Scripting
 * **DevOps & Cloud:** Docker, Ansible, Linux (Ubuntu/Debian), Oracle Cloud, LocalStack
-* **Tools & Editors:** Vim (Neovim), Git, GitHub Actions, Hugo
+* **Tools & Editors:** Vim, Git, GitHub Actions, Hugo
 * **Concepts:** CI/CD, Microservices, System Architecture
 
 ---
@@ -30,12 +31,14 @@ Passionate Computer Engineering student with a strong focus on **DevOps, Cloud N
 ## 📂 Projects
 
 ### **Gemini BBVA Integration** *(Ongoing)*
-* Developing a financial assistant utilizing **Generative AI**.
-* **Tech Stack:** Go, Docker, External APIs.
+* A self-healing cloud system project
+* * **Tech Stack:** Go, Python, C#, RabbitMQ, Docker, External APIs.
+* Link of the project: [Github](https://github.com/Arda-Aras103/Gemini_BBVA_Project)
 
 ### **Personal Tech Stack**
 * Built a personal cloud environment using **Oracle Always Free** and **Microsoft 365**.
 * Automated server setup using **Ansible** playbooks.
+* It includes: Ghost, n8n
 
 ---
 
